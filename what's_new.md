@@ -1,7 +1,6 @@
-WHAT'S NEW
+🎉 What's New
 
 ---
 
-- [31.October 2026] The Repos of Wada, Locus and PlantHub are public, changes will happen but when is still tbd.
-
+- 🚀 [October 31, 2026] Public Repository Launch — The official repositories for Wada, Locus, and PlantHub are now public! Active development and updates are underway (timeline TBD). Stay tuned for future releases!
 ---
