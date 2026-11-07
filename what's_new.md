@@ -11,3 +11,4 @@
 - 🔄 [November 3, 2026] Fix got pushed to Repo, had to do some UI/UX fixes as well to ensure the flow.
 ---
 
+- 🧐 [November 7, 2026] Thinking about adding some new hidden functions to the repos. Easter eggs for those who like to find them. Always liked the Hunt for some secret functions or features.
