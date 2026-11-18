@@ -1,6 +1,8 @@
 🎉 What's New
 
 ---
+- ⏳ [November 18, 2026] So Wada and Locus will get the whole Multiplatform Migration, but everything is still TBD.
+---
 - 😬 [November 16, 2026] Someone here had a very dumb idea, migrating PlantHub to Kotlin Multiplatform and Compose Multiplatform, but hey the App is still working, only one major f*** up that got fixed. The new APK will be uploaded this week.
 ---
 - 🧐 [November 7, 2026] Thinking about adding some new hidden functions to the repos. Easter eggs for those who like to find them. Always liked the Hunt for some secret functions or features.
