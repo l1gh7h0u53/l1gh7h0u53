@@ -1,6 +1,8 @@
 🎉 What's New
 
 ---
+- 🤫 [November 21, 2026] Fun things are coming, if you don't tell anyone you're implementing things that everyone would one day critique of not having in an App.
+---
 - ⏳ [November 18, 2026] So Wada and Locus will get the whole Multiplatform Migration, but everything is still TBD.
 ---
 - 😬 [November 16, 2026] Someone here had a very dumb idea, migrating PlantHub to Kotlin Multiplatform and Compose Multiplatform, but hey the App is still working, only one major f*** up that got fixed. The new APK will be uploaded this week.
