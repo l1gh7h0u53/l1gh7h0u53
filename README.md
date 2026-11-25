@@ -49,14 +49,6 @@ You know those processes running quietly under the hood that nobody pays attenti
 
 ---
 
-### Projects
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/projects?username=l1gh7h0u53&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F57897152%3Fu%3Db129faefbd351551cd80e352d305931979f52ffc%26v%3D4" alt="l1gh7h0u53 projects visual" />
-</p>
-
----
-
 ### 🤝 Want to Help or Collaborate?
 
 Found a bug? Have an idea for a weird background feature to turn into an app? 
